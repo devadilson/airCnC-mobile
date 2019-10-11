@@ -1,7 +1,7 @@
 # airCnC-mobile
-AirCnC Mobile React Native
+AirCnC Mobile using React Native
 
-Mobile using React Native
+Mobile using React Native: https://github.com/devadilson/airCnC-mobile
 
 Backend: https://github.com/devadilson/airCnC-backend
 
